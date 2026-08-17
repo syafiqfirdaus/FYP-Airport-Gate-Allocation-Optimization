@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Airport Gate Allocation Optimization"
+type: software
+authors:
+  - family-names: Firdaus
+    given-names: Syafiq
+version: 0.1.0
+date-released: 2026-08-18
+repository-code: "https://github.com/syafiqfirdaus/airport-gate-allocation-optimization"
+keywords:
+  - airport gate allocation
+  - metaheuristics
+  - gravitational search algorithm
+  - particle swarm optimization
+  - simulated Kalman filter
